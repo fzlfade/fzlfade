@@ -21,7 +21,7 @@
 <details open>
     <summary><h2 align="left">😎 Most Used Languages</h2></summary>
     
-[!(https://github-readme-stats.vercel.app/api/top-langs/?username=fzlfade&layout=pie)]
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=fzlfade&layout=pie)]
 </details>
     
 
