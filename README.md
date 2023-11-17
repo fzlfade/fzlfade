@@ -1,5 +1,5 @@
 <div align="center">
-  <img  src="https://github.com/fzlfade/fzlfade/blob/resources/main/grid-snake.svg"
+  <img src="[https://github.com/fzlfade/fzlfade/blob/resources/main/grid-snake.svg](https://github.com/fzlfade/fzlfade/blob/main/resources/main/grid-snake.svg)"
        alt="snake" /></a>
 </div>
 <h1 align="center">Hello there, I'm Faizal Deshta Nugraha</h1>
