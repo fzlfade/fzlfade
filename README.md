@@ -1,7 +1,6 @@
 <div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-    <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake">
-  </a>
+  <img  src="https://github.com/fzlfade/fzlfade/blob/resources/main/grid-snake.svg"
+       alt="snake" /></a>
 </div>
 <h1 align="center">Hello there, I'm Faizal Deshta Nugraha</h1>
 
