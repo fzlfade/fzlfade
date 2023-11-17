@@ -12,7 +12,7 @@
   <a href="https://laravel.com/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" height="40" /></a> 
   <a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="40" height="40"/></a> 
   <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a> 
-    <a href="https://tailwindcss.com"><img/></a>
+    <a href="https://tailwindcss.com" target="_blank">
 </details>
 <!-- <details open>
     <summary><h2 align="left">💡 Most Used Languages</h2></summary>
