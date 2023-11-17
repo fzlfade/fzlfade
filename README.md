@@ -12,12 +12,12 @@
   <a href="https://laravel.com/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" height="40" /></a> 
   <a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="40" height="40"/></a> 
   <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"     alt="bootstrap" width="40" height="40"/></a> 
-  <a href="https://tailwindcss.com" target="_blank"><img src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-light.svg" width="40"            height="40" style="max-width: 100%;"/></a>
+<a href="https://tailwindcss.com"><img src="https://img.jsdelivr.com/github.com/tailwindlabs.png" width="40" height="40"></a>
 </details>
 <details open>
     <summary><h2 align="left">😎 Most Used Languages</h2></summary>
     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fzlfade&layout=pie)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fzlfade&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 </details>
     
 
