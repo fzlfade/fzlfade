@@ -19,10 +19,13 @@
 <a href="https://tailwindcss.com"><img src="https://img.jsdelivr.com/github.com/tailwindlabs.png" width="40" height="40"></a>
 </details>
 
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+<details open>
+<summary> <h2> 🔗 Links <h2> </summary>
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faizal-nugraha-526a20273/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+
+</details>
 
 <details open>
     <summary><h2 align="left">😎 Most Used Languages</h2></summary>
