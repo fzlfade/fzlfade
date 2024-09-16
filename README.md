@@ -5,7 +5,7 @@
   <img src="https://github.com/fzlfade/fzlfade/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
-<h1 align="center">Hello there, I'm Faizal Deshta Nugraha</h1>
+<h1 align="center">Hello!, I'm Faizal Deshta Nugraha</h1>
 
 <details open>
     <summary><h2> 😎 About Me </h2></summary>
