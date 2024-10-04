@@ -10,7 +10,7 @@
 <details open>
     <summary><h2> 😎 About Me </h2></summary>
     <ul>
-        <li>🎓 Information Technology Student at Universitas Tidar</li>
+        <li>🎓 IT Student at Universitas Tidar</li>
     </ul>
 </details>
 <details open>
