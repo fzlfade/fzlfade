@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://github.com/fzlfade/fzlfade/blob/main/resources/img/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <img src="resources/img/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br>
   <br>
-  <img src="https://github.com/fzlfade/fzlfade/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+  <img src="resources/img/grid-snake.svg"
+       alt="snake"/></a>
 </div>
 <h1 align="center">Hello!, I'm Faizal Deshta Nugraha</h1>
 
