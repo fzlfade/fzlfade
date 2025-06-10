@@ -16,17 +16,16 @@
 <details open>
     <summary><h2 align="left"> ✏ Languages and Tools</h2></summary> 
   <a href="https://reactjs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/></a> 
-  <a href="https://laravel.com/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" height="40" /></a> 
+  <a href="https://laravel.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-line.svg" width="40" height="40" /></a> 
   <a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="40" height="40"/></a> 
   <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"     alt="bootstrap" width="40" height="40"/></a> 
 <a href="https://tailwindcss.com"><img src="https://img.jsdelivr.com/github.com/tailwindlabs.png" width="40" height="40"></a>
 </details>
 
 <details open>
-<summary> <h2> 🔗 Links <h2> </summary>
+<summary> <h2> 🔗 Connect with me <h2> </summary>
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faizal-nugraha-526a20273/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+<a href="https://linkedin.com/in/test" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="test" height="30" width="40" /></a>
 
 </details>
 
